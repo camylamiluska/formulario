@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Lumanosimo&family=Playfair+Display&display=swap');
+/*
+font-family: 'Lumanosimo',
+cursive;
+font-family: 'Playfair Display',
+serif;
+*/
+
+.ocultar {
+    display:none;
+}
+.mostrar {
+    display:block ;
+}
+
+.imgProducto {
+    height: 80px;
+}
+.producto {
+    text-align:center;
+   
+    margin: 35px;
+    border-color: black;
+}
+
+.resultado {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+body {
+    background-image: url("img/mellllll.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+

@@ -1,0 +1,86 @@
+[
+    {
+        "marca":"Barbie",
+        "precio":16,
+        "img": "https://www.estilos.com.pe/229293-home_default/barbie-polo-nina-bav23pc6903-blanco.jpg",
+        "sistema": "Ropa",
+        "webpage": ""
+    },
+    {
+        "marca":"Barbie 1",
+        "precio":19,
+        "img": "https://i.ytimg.com/vi/UUBCptCQY7k/maxresdefault.jpg",  
+        "sistema": "Ropa",
+        "webpage": ""
+    },
+    {
+        "marca":"Barbie 2",
+        "precio":15,
+        "img": "https://home.ripley.com.pe/Attachment/WOP_5/2093281976117/2093281976117_2.jpg",
+        "sistema": "jRopagueria",
+        "webpage": ""
+    },
+    {
+        "marca":"Barbie 3",
+        "precio":25,
+        "img": "https://realplaza.vtexassets.com/arquivos/ids/16477951-800-auto?v=637534340556370000&width=800&height=auto&aspect=true",
+        "sistema": "Ropa",
+        "webpage": ""
+    },
+    {
+        "marca":"Barbie 4",
+        "precio":16,
+        "img": "https://falabella.scene7.com/is/image/FalabellaPE/882790096_1?wid=800&hei=800&qlt=70",
+        "sistema": "Ropa",
+        "webpage": ""
+    },
+    {
+        "marca":"Barbie 5",
+        "precio":20,
+        "img": "https://mercury.vteximg.com.br/arquivos/ids/9723402-550-550/image-46004d055a4c47f0ad10abc412505baf.jpg?v=638004929033130000",
+        "sistema": "Ropa",
+        "webpage": ""
+    },
+    {
+        "marca": "Barbie 6",
+        "precio": 20,
+        "img": "https://falabella.scene7.com/is/image/FalabellaPE/882825244_1?wid=1500&hei=1500&qlt=70",
+        "sistema": "Ropa",
+        "webpage": ""
+    },
+    {
+        "marca": "Barbie 7",
+        "precio": 20,
+        "img": "https://falabella.scene7.com/is/image/FalabellaPE/882825198_1?wid=800&hei=800&qlt=70",
+        "sistema": "Ropa",
+        "webpage": ""
+    },
+    {
+        "marca": "Barbie 8",
+        "precio":16 ,
+        "img": "https://falabella.scene7.com/is/image/FalabellaPE/882782437_1",
+        "sistema": "Ropa",
+        "webpage": ""
+    },
+    {
+        "marca": "Barbie 9",
+        "precio": 18,
+        "img": "https://sumerlabs.com/sumer-app-90b8f.appspot.com/product_photos%2Fe797a67b5495a26b51468ac69d02fc31%2F0ed071f0-70a1-11ec-9ad7-49e062a72d67?alt=media&token=2d0916f3-f988-4744-a018-7646faa40d92",
+        "sistema": "Ropa",
+        "webpage": ""
+    },
+    {
+        "marca": "Barbie 10",
+        "precio": 20,
+        "img": "https://img.clasf.pe/2021/10/05/BARBIE-Polo-Manga-Larga-Nia-20211005045713.2079720015.jpg",
+        "sistema": "Ropa",
+        "webpage": ""
+    },
+    {
+        "marca": "Barbie 11",
+        "precio": 10,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOX8Dte9lh0UzD8V3y2jxmGoyoOgMD1Xr3rL7WuLaQW5SCsV-vdV83kC3xrA1BBbv3ECw&usqp=CAU",
+        "sistema": "Ropa",
+        "webpage": ""
+    }
+]
